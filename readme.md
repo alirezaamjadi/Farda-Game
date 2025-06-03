@@ -1,3 +1,6 @@
+![game_code_horizontal_poster](https://github.com/user-attachments/assets/76c683c0-563a-403c-b382-c34a4f56f9bb)
+
+
 
 # بازی فردا (Farda Snake Game)
 
