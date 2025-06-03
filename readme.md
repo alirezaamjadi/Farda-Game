@@ -1,7 +1,13 @@
 
+![game_file_cool_banner](https://github.com/user-attachments/assets/b9c10014-3066-4709-9528-58fe7847be0f)
+
+
+
+
+
 # راهنمای نصب بازی فردا 🎮🐍
 
-## نسخه فارسی
+
 
 ---
 
